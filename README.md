@@ -6,7 +6,7 @@ My solutions and notes from the **Piscine Reloaded** at [42 Porto](https://www.4
 
 ## About
 
-The Piscine Reloaded is a self-paced version of the 42 Piscine. It covers Unix shell basics and the fundamentals of C programming, and every exercise follows the 42 **Norm**.
+The Piscine Reloaded is a self-paced version of the 42 Piscine. It covers Unix shell basics and the fundamentals of C programming.
 
 ## Repository structure
 
