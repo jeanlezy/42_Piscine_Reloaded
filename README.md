@@ -1,14 +1,12 @@
-# Piscine Reloaded - 42 Porto
+ *This project has been created as part of the 42 curriculum by jeanbarr.*
+ 
+<h1><center>Piscine Reloaded</h1></center>
 
 My solutions and notes from the **Piscine Reloaded** at [42 Porto](https://www.42porto.com/), a set of practice exercises in Shell and C that prepares me for the 42 core curriculum.
 
 ## About
 
 The Piscine Reloaded is a self-paced version of the 42 Piscine. It covers Unix shell basics and the fundamentals of C programming, and every exercise follows the 42 **Norm**.
-
-- **School:** 42 Porto
-- **Languages:** Shell, C
-- **Tools:** `cc`, `make`, `norminette`, Git, VS Code
 
 ## Repository structure
 
@@ -92,9 +90,3 @@ make re     # rebuild from scratch
 - [Write here what was hardest, e.g. pointers, the Norm, Makefile tabs]
 - [What you would do differently]
 
-## Author
-
-**[Your name]**
-- 42 intranet: [login]
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [link]
