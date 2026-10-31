@@ -45,21 +45,34 @@ Reloaded_Piscine/
 
 | Exercise | Name | Topic |
 |----------|------|-------|
-| ex04 | MAC.sh | Shell pipeline |
-| ex05 | Special file name | Shell quoting |
-| ex06 | ft_print_alphabet | Loops |
-| ex08 | ft_is_negative | Conditions |
-| ex10 | ft_swap | Pointers |
-| ex11 | ft_div_mod | Pointers |
+| ex00 | Oh yeah, mooore... | File permissions, directories, tar |
+| ex01 | Z | Basic shell commands |
+| ex02 | clean | Find and delete files |
+| ex03 | find_sh | Shell scripting |
+| ex04 | MAC | Network commands |
+| ex05 | Can you create it? | File creation and naming |
+| ex06 | ft_print_alphabet | Loops, characters |
+| ex07 | ft_print_numbers | Loops, digits |
+| ex08 | ft_is_negative | Conditional statements |
+| ex09 | ft_ft | Pointers |
+| ex10 | ft_swap | Pointers, swapping values |
+| ex11 | ft_div_mod | Pointers, arithmetic |
 | ex12 | ft_iterative_factorial | Iteration |
 | ex13 | ft_recursive_factorial | Recursion |
-| ex15 | ft_putstr | Strings |
-| ex19 | ft_sort_params | Arguments and sorting |
-| ex21 | ft_range | `malloc` |
-| ex24 | Makefile | Static library `libft.a` |
-| ex27 | ft_display_file | File I/O |
-
-*(Add the remaining exercises and any I skipped.)*
+| ex14 | ft_sqrt | Algorithms, loops |
+| ex15 | ft_putstr | Strings, output |
+| ex16 | ft_strlen | String manipulation |
+| ex17 | ft_strcmp | String comparison |
+| ex18 | ft_print_params | Command-line arguments |
+| ex19 | ft_sort_params | Sorting, ASCII |
+| ex20 | ft_strdup | Dynamic memory allocation |
+| ex21 | ft_range | Arrays, `malloc` |
+| ex22 | ft_abs.h | Macros, header files |
+| ex23 | ft_point.h | Structures |
+| ex24 | Makefile | Compilation, static libraries |
+| ex25 | ft_foreach | Function pointers |
+| ex26 | ft_count_if | Function pointers |
+| ex27 | display_file | File handling, Makefile |
 
 ## How to compile and test
 
@@ -85,8 +98,4 @@ make fclean # remove object files and the binary
 make re     # rebuild from scratch
 ```
 
-## Lessons learned
-
-- [Write here what was hardest, e.g. pointers, the Norm, Makefile tabs]
-- [What you would do differently]
 
